@@ -1,0 +1,9 @@
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\bin\Debug\Negocio.dll
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\bin\Debug\Datos.dll
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\bin\Debug\Datos.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\obj\Debug\Negocio.dll
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Negocio\obj\Debug\Negocio.pdb

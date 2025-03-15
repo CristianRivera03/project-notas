@@ -1,0 +1,6 @@
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\bin\Debug\Datos.dll
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\bin\Debug\Datos.pdb
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\obj\Debug\Datos.dll
+C:\Users\JOSE EDUARDO\Documents\Universidad\Año 4 - 1er Ciclo\PaginasWebActivas\Proyecto_Gestor\Datos\obj\Debug\Datos.pdb
