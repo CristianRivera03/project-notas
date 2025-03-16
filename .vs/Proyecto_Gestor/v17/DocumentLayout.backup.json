@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|c:\\users\\cr853\\downloads\\proyecto_gestor\\presentation\\cuentas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\cuentas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|c:\\users\\cr853\\downloads\\proyecto_gestor\\presentation\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|c:\\users\\cr853\\downloads\\proyecto_gestor\\presentation\\notas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\notas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|c:\\users\\cr853\\downloads\\proyecto_gestor\\presentation\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|c:\\users\\cr853\\downloads\\proyecto_gestor\\presentation\\assets\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6C9F556-1826-47E7-A1C5-2F69635200C1}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assets\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cuentas.aspx",
+              "DocumentMoniker": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\cuentas.aspx",
+              "RelativeDocumentMoniker": "Presentation\\cuentas.aspx",
+              "ToolTip": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\cuentas.aspx",
+              "RelativeToolTip": "Presentation\\cuentas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T01:59:00.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\styles\\style.css",
+              "RelativeDocumentMoniker": "Presentation\\styles\\style.css",
+              "ToolTip": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\styles\\style.css",
+              "RelativeToolTip": "Presentation\\styles\\style.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T02:47:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "notas.aspx",
+              "DocumentMoniker": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\notas.aspx",
+              "RelativeDocumentMoniker": "Presentation\\notas.aspx",
+              "ToolTip": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\notas.aspx",
+              "RelativeToolTip": "Presentation\\notas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T00:37:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\index.aspx",
+              "RelativeDocumentMoniker": "Presentation\\index.aspx",
+              "ToolTip": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\index.aspx",
+              "RelativeToolTip": "Presentation\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T00:34:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\assets\\custom.js",
+              "RelativeDocumentMoniker": "Presentation\\assets\\custom.js",
+              "ToolTip": "C:\\Users\\cr853\\Downloads\\Proyecto_Gestor\\Presentation\\assets\\custom.js",
+              "RelativeToolTip": "Presentation\\assets\\custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-16T00:33:10.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

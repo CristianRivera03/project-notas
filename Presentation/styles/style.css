@@ -1,0 +1,52 @@
+﻿.botones {
+    color: #090909;
+    padding: 0.7em 1.7em;
+    font-size: 18px;
+    border-radius: 0.5em;
+    background: #e8e8e8;
+    cursor: pointer;
+    border: 1px solid #e8e8e8;
+    transition: color 1s, box-shadow 1s, background 1s; /* Agregar transiciones individuales */
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+}
+
+    .botones:hover {
+        color: #666;
+        box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
+        background: #d0d0d0; /* Un cambio suave de fondo también */
+    }
+
+
+
+
+
+
+
+
+.sidebar {
+    width: 250px;
+    background-color: #343a40;
+    padding-top: 20px;
+    position: fixed;
+    height: 100vh;
+}
+
+    .sidebar a {
+        padding: 10px 15px;
+        text-decoration: none;
+        font-size: 18px;
+        color: white;
+        display: block;
+    }
+
+        .sidebar a:hover {
+            background-color: #495057;
+        }
+
+.content {
+    margin-left: 260px;
+    padding: 20px;
+}
+
+
+

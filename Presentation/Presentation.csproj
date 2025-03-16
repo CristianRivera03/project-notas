@@ -67,9 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\custom.js" />
     <Content Include="cuentas.aspx" />
     <Content Include="index.aspx" />
     <Content Include="notas.aspx" />
+    <Content Include="styles\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
